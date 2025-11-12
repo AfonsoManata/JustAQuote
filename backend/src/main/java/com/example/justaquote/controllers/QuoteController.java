@@ -1,7 +1,7 @@
 package com.example.justaquotedb.controller;
 
-import com.justaquotedb.entities.Quote;
-import com.justaquotedb.service.QuoteService;
+import com.example.justaquote.entities.Quote;
+import com.example.justaquote.services.QuoteService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

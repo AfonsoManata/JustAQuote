@@ -1,7 +1,7 @@
-package com.justaquotedb.service;
+package com.example.justaquote.services;
 
-import com.justaquotedb.repository.QuoteRepository;
-import com.justaquotedb.model.Quote;
+import com.example.justaquote.repositories.QuoteRepository;
+import com.example.justaquote.entities.Quote;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
