@@ -1,4 +1,4 @@
-package com.example.justaquote.models;
+package com.example.justaquote.entities;
 
 import jakarta.persistence.*;
 
