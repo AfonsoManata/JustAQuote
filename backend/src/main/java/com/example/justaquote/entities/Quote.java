@@ -7,12 +7,16 @@ import jakarta.persistence.*;
 public class Quote {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private Long _id;
 
     @Column(nullable = false, length = 255)
-    private String text;
+    private String _text;
 
     public Quote() {}
-    public Quote(String text) { this.text = text;}
+    public Quote(String text) { _text = text;}
 
+		@Override
+		public String toString(){
+			return _text; 
+		}
 }
