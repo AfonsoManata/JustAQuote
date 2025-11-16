@@ -1,3 +1,5 @@
+import java.util.Properties
+
 plugins {
 	id 'java'
 	id 'org.springframework.boot' version '3.5.6'
@@ -30,5 +32,13 @@ dependencies {
 
 tasks.named('test') {
 	useJUnitPlatform()
+}
+
+
+def dotenv = new Properties()
+file("./../.env").withInputStream { dotenv.load(it) }
+
+bootRun {
+    environment dotenv
 }
 

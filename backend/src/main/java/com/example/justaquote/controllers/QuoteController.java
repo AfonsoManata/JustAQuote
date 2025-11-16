@@ -1,4 +1,4 @@
-package com.example.justaquotedb.controller;
+package com.example.justaquote.controllers;
 
 import com.example.justaquote.entities.Quote;
 import com.example.justaquote.services.QuoteService;
