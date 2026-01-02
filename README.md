@@ -22,7 +22,7 @@ The project showcases backend performance optimization using a **Cache-Aside** s
 
 <br/>
 
-The primary technical achievement of this project is a drastic reduction in API response latency by introducing **Redis** as a distributed caching layer in front of **PostgreSQL**. (The first value is from the database).
+The primary technical achievement of this project is a drastic reduction in API response latency by introducing **Redis** as a distributed caching layer in front of **PostgreSQL** (The first value is from the database).
 
 <br/>
 
