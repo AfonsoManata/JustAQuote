@@ -5,16 +5,9 @@
 
 # JustAQuote 💡
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 A high-performance **REST API** engineered with **Spring Boot** for the scalable delivery of motivational quotes.  
 This project demonstrates backend performance optimization using a **Cache-Aside** strategy with **Redis**.
 
----
 
 ## 🚀 Performance Breakthrough: 360ms → < 5ms
 
