@@ -24,7 +24,7 @@ The project showcases backend performance optimization using a **Cache-Aside** s
 
 The primary technical achievement of this project is a drastic reduction in API response latency by introducing **Redis** as a distributed caching layer in front of **PostgreSQL**.
 
-By serving frequent read requests directly from memory, the API minimizes database I/O and significantly improves throughput.
+By serving frequent read requests directly from memory, the API minimizes database I/O and significantly improves throughput(The first value is from the database).
 
 <br/>
 
