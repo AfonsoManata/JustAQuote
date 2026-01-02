@@ -14,11 +14,8 @@ This project demonstrates backend performance optimization using a **Cache-Aside
 The primary technical achievement of this project is a drastic reduction in API response latency by introducing **Redis** as a distributed caching layer on top of **PostgreSQL**.
 <img width="944" height="471" alt="justaquote" src="https://github.com/user-attachments/assets/20a9ea47-bed7-44c0-a448-33f61f6fb70d" />
 
-
-
 **Total Improvement:** ~98.6% latency reduction 🚀
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +25,6 @@ The primary technical achievement of this project is a drastic reduction in API 
 - **Containerization:** Docker & Docker Compose
 - **Build Tool:** Gradle
 
----
 
 ## ✨ Key Features
 
@@ -44,5 +40,5 @@ The primary technical achievement of this project is a drastic reduction in API 
 - **Clean Architecture**  
   Follows Controller–Service–Repository layering to ensure maintainability, testability, and separation of concerns.
 
----
+
 
