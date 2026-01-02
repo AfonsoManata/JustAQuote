@@ -1,9 +1,7 @@
-# JustAQuote
-
-
-![IMG_0115](https://github.com/user-attachments/assets/5c02e57e-a746-407a-8ba9-66dc6971c366)
 
 # JustAQuote 💡
+
+<img width="866" height="202" alt="Screenshot 2026-01-02 at 21 58 02" src="https://github.com/user-attachments/assets/983f837e-7a46-4ecc-bd8b-27ec321a2638" />
 
 A high-performance **REST API** engineered with **Spring Boot** for the scalable delivery of motivational quotes.  
 This project demonstrates backend performance optimization using a **Cache-Aside** strategy with **Redis**.
