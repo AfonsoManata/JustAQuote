@@ -7,6 +7,7 @@ INSERT INTO quotes (text) VALUES
 ('Successful people are not gifted; they just work hard, then succeed on purpose.'),
 ('Success isn''t always about greatness. It''s about consistency. Consistent hard work leads to success. Greatness will come.'),
 ('The only thing standing between you and outrageous success is continuous progress.'),
+('The bad news is time flies. The good news you are the pilot'),
 ('I never dreamt of success. I worked for it.'),
 ('Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don''t quit.'),
 ('Success is the sum of small efforts, repeated day in and day out.'),

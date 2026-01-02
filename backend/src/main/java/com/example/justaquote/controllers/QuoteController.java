@@ -17,11 +17,11 @@ public class QuoteController {
         this.quoteService = quoteService;
     }
 
-    @GetMapping("/random")
-    public ResponseEntity<Quote> getRandomQuote() {
-
-				// Generating the random quote
-        Quote quote = quoteService.getRandomQuote();
+    @GetMapping("/daily")
+    public ResponseEntity<Quote> getDailyQuote() {
+		
+		// Generating the daily quote
+        Quote quote = quoteService.getDailyQuote();
 
         return ResponseEntity.ok(quote);
     }
