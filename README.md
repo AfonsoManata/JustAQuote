@@ -15,7 +15,7 @@
 
 The project showcases backend performance optimization using a **Cache-Aside** strategy powered by **Redis**, dramatically improving response times under high-read workloads.
 
----
+
 
 ## 🚀 Performance Breakthrough  
 ### 360 ms → **< 5 ms**
@@ -36,7 +36,6 @@ The primary technical achievement of this project is a drastic reduction in API 
 
 **Total Improvement:** ~**98.6%** latency reduction 🚀
 
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +45,6 @@ The primary technical achievement of this project is a drastic reduction in API 
 - **Containerization:** Docker & Docker Compose
 - **Build Tool:** Gradle
 
----
 
 ## ✨ Key Features
 
