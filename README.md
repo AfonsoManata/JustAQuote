@@ -17,7 +17,7 @@ The project showcases backend performance optimization using a **Redis**, dramat
 
 
 
-## 🚀 Performance Breakthrough  
+## Performance Breakthrough  
 ### 360 ms → **< 5 ms**
 
 <br/>
@@ -37,7 +37,7 @@ The primary technical achievement of this project is a drastic reduction in API 
 **Total Improvement:** ~**98.6%** latency reduction 🚀
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Java 21, Spring Boot (Web, Data JPA, Redis)
 - **Database:** PostgreSQL (Persistent storage)
@@ -46,7 +46,7 @@ The primary technical achievement of this project is a drastic reduction in API 
 - **Build Tool:** Gradle
 
 
-## ✨ Key Features
+## Key Features
 
 - ⚡ Optimized Data Retrieval
 Implements a **cache-aside pattern**, querying Redis before PostgreSQL to drastically reduce database load and response latency.
