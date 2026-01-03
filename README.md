@@ -55,7 +55,7 @@ Implements a **cache-aside pattern**, querying Redis before PostgreSQL to drasti
 Designed for high-read, high-concurrency environments by offloading frequent queries to an in-memory cache.
 
 - 🐳 Containerized Environment
-Fully orchestrated using **Docker Compose**, enabling one-command startup of the API, database, and cache.
+Fully orchestrated using **Docker Compose**, enabling one-command startup of the database, and cache.
 
 - 🧱 Clean Architecture
 Follows a **Controller–Service–Repository** layering approach to ensure maintainability, testability, and clear separation of concerns.
