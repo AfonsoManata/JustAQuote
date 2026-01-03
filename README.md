@@ -19,8 +19,6 @@ The project showcases backend performance optimization using a **Redis**, dramat
 
 ## Performance Breakthrough  
 
-<br/>
-
 The primary technical achievement of this project is a drastic reduction in API response latency by introducing **Redis** as a distributed caching layer in front of **PostgreSQL** (The first value is from the database).
 
 <br/>
