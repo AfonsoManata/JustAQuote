@@ -13,7 +13,7 @@
 
 **JustAQuote** is a high-performance **REST API** built with **Spring Boot**, designed for the scalable delivery of daily motivational quotes.
 
-The project showcases backend performance optimization using a **Cache-Aside** strategy powered by **Redis**, dramatically improving response times under high-read workloads.
+The project showcases backend performance optimization using a **Redis**, dramatically improving response times under high-read workloads.
 
 
 
