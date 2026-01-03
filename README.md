@@ -8,8 +8,6 @@
   width="866"
 />
 
-<br/>
-<br/>
 
 **JustAQuote** is a high-performance **REST API** built with **Spring Boot**, designed for the scalable delivery of daily motivational quotes.
 
