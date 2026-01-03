@@ -18,7 +18,6 @@ The project showcases backend performance optimization using a **Redis**, dramat
 
 
 ## Performance Breakthrough  
-### 360 ms → **< 5 ms**
 
 <br/>
 
