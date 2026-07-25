@@ -29,7 +29,7 @@ The primary technical achievement of this project is a drastic reduction in API 
 
 <br/>
 
-**Total Improvement:** ~**98.6%** latency reduction 🚀
+**Total Improvement:** ~**98.6%** latency reduction
 
 
 ## Tech Stack
@@ -43,14 +43,14 @@ The primary technical achievement of this project is a drastic reduction in API 
 
 ## Key Features
 
-- ⚡ Optimized Data Retrieval
+- Optimized Data Retrieval
 Implements a **cache-aside pattern**, querying Redis before PostgreSQL to drastically reduce database load and response latency.
 
-- 📈 Scalable Architecture
+- Scalable Architecture
 Designed for high-read, high-concurrency environments by offloading frequent queries to an in-memory cache.
 
-- 🐳 Containerized Environment
+- Containerized Environment
 Fully orchestrated using **Docker Compose**, enabling one-command startup of the database, and cache.
 
-- 🧱 Clean Architecture
+-  Clean Architecture
 Follows a **Controller–Service–Repository** layering approach to ensure maintainability, testability, and clear separation of concerns.
